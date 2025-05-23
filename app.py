@@ -62,7 +62,7 @@ st.title("🎓 ÇOMÜ Bilgi Asistanı")
 st.markdown("Üniversite hakkında merak ettiğiniz soruları sorun!")
 
 # Kullanıcıdan soru al
-user_input = st.text_input("✍️ Soru girin", placeholder="Örn: Hukuk Fakültesi nerede?")
+user_input = st.text_input("✍️ Soru girin", placeholder="")
 
 # Cevapla butonuna basılınca
 if st.button("Cevapla"):
