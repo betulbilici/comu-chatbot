@@ -57,7 +57,7 @@ Q: Hukuk Fakültesi hangi yerleşkede bulunur?
 A: Hukuk Fakültesi Bulunmamaktadır.
 
 Q: Diş Hekimliği Fakültesi hangi yerleşkede bulunur?
-A: Diş Hekimliği Fakültesi  Yerleşkesi'ndedir.
+A: Diş Hekimliği Fakültesi KEPEZ  Yerleşkesi'ndedir.
 
 Q: Sağlık Bilimleri Fakültesi hangi yerleşkede bulunur?
 A: Sağlık Bilimleri Fakültesi Terzioğlu Yerleşkesi'nde yer alır.
@@ -104,3 +104,32 @@ A: Üniversite yemekhanelerinde öğle ve akşam yemeği hizmeti sunulmaktadır.
 
 Q: Kampüslerde ulaşım nasıl sağlanır?
 A: Kampüsler arası ve şehir içi ulaşım Çanakkale Belediyesi otobüsleriyle yapılır. Kentkart kullanılarak kolay ulaşım mümkündür. Ana yerleşkeler arasında düzenli otobüs seferleri vardır.
+
+Q: Bilgisayar Mühendisliği akademik kadrosu ?
+A: Prof.Dr.İsmail KADAYIF Bölüm Başkanı, Bilgisayar Bilimleri Anabilim Dalı Başkanı 	
+Prof.Dr.Bahadır KARASULU Bilgisayar Yazılımı Anabilim Dalı Başkanı
+Prof.Dr.S. Ayşe GÖKER	(*Elektrik-Elektronik Müh.Görevlendirme)		
+Doç.Dr.Engin ŞAHİN
+Doç.Dr.Sait Can YÜCEBAŞ
+Dr. Öğretim Üyesi Yonca BAYRAKDAR YILMAZ	
+Dr. Öğretim Üyesi Ali Murat TİRYAKİ,Bölüm Başkan Yardımcısı
+Dr. Öğretim Üyesi Bora UĞURLU,Bölüm Başkan Yardımcısı,Bilgisayar Donanımı Anabilim Dalı Başkan V.	
+Öğr.Gör.İsmail KAHRAMAN
+Öğr.Gör.Utku BAYRAM	 	
+Öğr.Gör.Vildan BAYRAM
+Ar.Gör.Esma YENİSARI		 
+Ar.Gör.Dr.Müberra Nur AKÇAMAN	 
+Ar.Gör.Furkan KAYA	 	 	 
+Ar.Gör.Osman Semi CEYLAN	 	 		 
+Bilgisayar İşletmeni Gül UMUT,Bölüm Sekreteri
+
+Q: Elektrik-Elektronik Mühendisliği akademik kadrosu ?
+A:Prof. Dr. Mustafa KURT ,Bölüm Başkanı
+Prof. Dr. Özgür Turay KAYMAKÇI ,Bölüm Başkan Yardımcısı
+Doç. Dr. Adem POLAT
+Doç. Dr. Onur ELMA
+Dr. Öğr. Üyesi Ulya BAYRAM
+Arş. Gör. Kübra ÇAKIR
+
+Q:
+A:
